@@ -7,8 +7,8 @@ The application allow\s user to save events for each hour of the day. This appli
 
 ## APP URLs:
 
-* Deployed App URL:
-* Repository URL: 
+* Deployed App URL: https://mmtariqk.github.io/Work-Day-Scheduler/
+* Repository URL:   https://github.com/mmtariqk/Work-Day-Scheduler
 
 ## Screenshots of the APP
 
