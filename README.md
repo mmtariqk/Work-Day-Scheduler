@@ -12,3 +12,9 @@ The application allow\s user to save events for each hour of the day. This appli
 
 ## Screenshots of the APP
 
+<img width="486" alt="Mobile-Devices" src="https://user-images.githubusercontent.com/77028806/110277630-821bb380-7f8a-11eb-875a-6b15a62e772c.png">
+
+<img width="1347" alt="Tablet-Size-Devices" src="https://user-images.githubusercontent.com/77028806/110277662-919afc80-7f8a-11eb-8787-e86a60eb63d4.png">
+
+<img width="1037" alt="Desktop-Size-Devices" src="https://user-images.githubusercontent.com/77028806/110277686-a1b2dc00-7f8a-11eb-9332-ef4db9853659.png">
+
