@@ -2,7 +2,7 @@
 
 ## App Description:
 
-This is a fully responsive daily work scheduler built in html, bootstrap, jQuery, and moment js api used for date and time. The application allow\s user to save events for each hour of the day. This application will run in the browser and feature dynamically updated HTML and CSS powered by jQuery. There are time blocks for standard business hours. Each time block is color coded to indicate whether it is in the past, present, or future. Once you click in that you can enter an event and even there is a SAVE button to save the event or activity. On top of that, that event is saved in local storage and even if you refresh the browser, the saved events persist.
+This is a fully responsive daily work scheduler built in html, bootstrap, jQuery, and moment js api used for date and time. The application allows user to save events for each hour of the day. This application will run in the browser and feature dynamically updated HTML and CSS powered by jQuery. There are time blocks for standard business hours. Each time block is color coded to indicate whether it is in the past, present, or future. Once you click in that you can enter an event and even there is a SAVE button to save the event or activity. On top of that, that event is saved in local storage and even if you refresh the browser, the saved events persist.
 
 ## APP URLs:
 
